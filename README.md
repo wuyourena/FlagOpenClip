@@ -1,6 +1,6 @@
 # FlagOpenClip
 FlagOpen base clip model
-# this is an easy sample for clip model by FlagAI
+# this is an demo for clip model by FlagAI
 
 STEP 1:
   Git clone main branch
